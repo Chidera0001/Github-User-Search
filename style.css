@@ -17,6 +17,7 @@
   --box-shadow: 5px 5px 10px #7d8284, 5px -5px 10px #ffffff;
 }
 
+
 .container{
   display: flex;
   min-height: 100vh;
