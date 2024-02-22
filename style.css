@@ -6,15 +6,15 @@
   color: var(--text-color);
   background-color: var(--bg-color);
 
-  --bg-color:#d0d8dc;
-  --text-color:black;
-  --padding-regular:1rem;
+  --bg-color: #212121; /* Dark mode background color */
+  --text-color: white; /* Dark mode text color */
+  --padding-regular: 1rem;
 
-  --dark-mode:revert; 
+  --dark-mode: revert; 
   --light-mode: none;
-  /* --box-bg:#212121; */
-  --box-radius:16px;
-  --box-shadow:9px 9px 17px #7d8284,-9px -9px 17px #ffffff;
+  /* --box-bg: #212121; */ /* This seems to be commented out, leave it as is */
+  --box-radius: 16px;
+  --box-shadow: 5px 5px 10px #7d8284, 5px -5px 10px #ffffff;
 }
 
 .container{
